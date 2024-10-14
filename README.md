@@ -130,4 +130,4 @@ plt.show()
 ```
 **Descripción**: Cambia el estilo del gráfico para hacerlo más atractivo. En este caso, se usa el estilo `ggplot`.
 
-Estos códigos básicos son un buen punto de partida para explorar las capacidades de Matplotlib y crear visualizaciones efectivas. ¡Puedes experimentar con diferentes configuraciones para personalizar tus gráficos!
+Estos códigos básicos son un buen punto de partida para explorar las capacidades de Matplotlib y crear visualizaciones efectivas. 
