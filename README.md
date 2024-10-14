@@ -1,4 +1,4 @@
-# Resumen sobre Matplotlib
+# Matplotlib
 
 Matplotlib es una biblioteca de visualización de datos en Python que permite crear gráficos de alta calidad de manera sencilla y flexible. Es especialmente útil para representar datos numéricos y explorar información de forma visual.
 
