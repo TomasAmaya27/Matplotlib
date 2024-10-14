@@ -26,3 +26,4 @@ Matplotlib permite personalizar los gráficos para hacerlos más atractivos y cl
 - **Tamaño de figura**: Ajustar el tamaño del gráfico para que se adapte al medio de presentación (pantalla, papel, etc.).
 
 Diferentes gráficos representan distintos tipos de información y son útiles para diversas situaciones, lo que permite una mejor comprensión y comunicación de los datos.
+![image](https://github.com/user-attachments/assets/19f1930b-3e13-4df0-99c6-abeb32f543f8)
